@@ -35,6 +35,7 @@ Data ---> Feature Engineering ---> Handle Categorical Features ---> Feature Sele
 7. Hyperprameter Optimization --
 
 
+
 **Machine Learning Algorithms:**
 
 - [All Basic ML Models](https://github.com/yugeshyerraguntla/Basic-MachineLearning-Models)
@@ -71,13 +72,15 @@ Data ---> Feature Engineering ---> Handle Categorical Features ---> Feature Sele
 
 
 
-Sample ML Projects:
+
+**Sample ML Projects:**
 
 - [500+ AI-ML Projects](https://github.com/yugeshyerraguntla/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
 - [2019 WorldCup Winner Predictor with RF](https://github.com/yugeshyerraguntla/2019-ICC-WorldCupPredictor_RF)
 
 - [Drowsiness Detection](https://github.com/yugeshyerraguntla/DrowsinessDetection)
+
 
 
 
