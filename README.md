@@ -19,7 +19,7 @@ Data ---> Feature Engineering ---> Handle Categorical Features ---> Feature Sele
 
 
 3. Handling Imbalanced Data   -- [HANDLING IMBALANCED DATA](https://github.com/yugeshyerraguntla/HandlingImbalancedData)
-    - Try reducing FP and FN. Look a your Performance Metrics and apply SMOTE TECHNIQUES
+    - Try reducing FP and FN. Look at your Performance Metrics and apply SMOTE TECHNIQUES
     - If nothing works, go for Ensmble techniques
 
 
