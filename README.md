@@ -5,17 +5,17 @@ Data ---> Feature Engineering ---> Handle Categorical Features ---> Feature Sele
 
 
 1. Feature Engineering        -- [FEATURE ENGINEERING TECHNIQUES](https://github.com/yugeshyerraguntla/FeatureEngineeringTechniques)
-                                  - Handling Missing Data - (Mean/MedianMode Replacement, Random Sample Imputation, Capturing NaN values, EoD Imputation, Arbitrary Imputation)
-                                  - Handling Categorical Variables - (Highest Count, (Nominal and Ordinal Variables)-One Hot Encoding, Count Frequency Encoding)
-                                  - Feature Scaling - (Normalization, Standardization)
+  - Handling Missing Data - (Mean/MedianMode Replacement, Random Sample Imputation, Capturing NaN values, EoD Imputation, Arbitrary Imputation)
+  - Handling Categorical Variables - (Highest Count, (Nominal and Ordinal Variables)-One Hot Encoding, Count Frequency Encoding)
+  - Feature Scaling - (Normalization, Standardization)
 
 
 2. Feature Selection          -- [FEATURE SELECTION TECHNIQUES](https://github.com/yugeshyerraguntla/FeatureSelectionTechniques)
-                                  - Dropping Constan Features - (Variance Threshold)
-                                  - Correlation 
-                                  - Information Gain - Mutual Information Gain
-                                  - Chi Square - Fisher Score (For Feature Selection)
-                                  - KBestAlgorithm
+ - Dropping Constan Features - (Variance Threshold)
+ - Correlation 
+ - Information Gain - Mutual Information Gain
+ - Chi Square - Fisher Score (For Feature Selection)
+ - KBestAlgorithm
 
 
 3. Handling Imbalanced Data   -- [HANDLING IMBALANCED DATA](https://github.com/yugeshyerraguntla/HandlingImbalancedData)
