@@ -36,13 +36,14 @@ Data ---> Feature Engineering ---> Handle Categorical Features ---> Feature Sele
     - ANOVA Test                -   One Numerical Var + One Categorical Var / Categorical Var with more than 3 features)
 
     As per Prof.UDK, THe Objective of various tests are as follows:
-        - Hypothesis Test   - To Reject or Retain existing claim or belief.
-        - Z Test            - To test the value of population mean when the population variance is known
-        - T Test(one sample)- To test when the Std Deviation is unknown and estimated from sample
-        - T Test(two sample)- To test difference btw toe population means where Std Deviations are unknown
-        - Paired sample T Test - To test whether an Intervention may have significantly changed the population parameters
-        - Chi Squared Test  - Non Parameteric test for caomparing Observed Dist Data vs Expected Dist Data
-        - ANOVAV            - 
+     - Hypothesis Test   - To Reject or Retain existing claim or belief.
+     - Z Test            - To test the value of population mean when the population variance is known
+     - T Test(one sample)- To test when the Std Deviation is unknown and estimated from sample
+     - T Test(two sample)- To test difference btw toe population means where Std Deviations are unknown
+     - PairedSampleTTest - To test whether an Intervention may have significantly changed the population parameters
+     - Chi Squared Test  - Non Parameteric test for caomparing Observed Dist Data vs Expected Dist Data
+     - ANOVAV            - To Compare Mean values simultaneously for more than 2 groups
+           
 
 5. Types of Transformation    --
 
