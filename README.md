@@ -1,7 +1,11 @@
 # TogetherAtPlace
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Basic ML Together at a place
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Link for all repositories
 
-Data ---> Feature Engineering ---> Handle Categorical Features ---> Feature Selection 
+Data ---> Feature Engineering ---> Handle Categorical Features ---> Feature Selection ---> ML Algos ---> HyperParameter Tuning ---> Deployment
 
 
 1. Feature Engineering        -- [FEATURE ENGINEERING TECHNIQUES](https://github.com/yugeshyerraguntla/FeatureEngineeringTechniques)
@@ -24,9 +28,21 @@ Data ---> Feature Engineering ---> Handle Categorical Features ---> Feature Sele
 
 
 4. Hypothesis Testing         -- [HYPOTHESIS TESTING](https://github.com/yugeshyerraguntla/HypothesisTesting---T-ChiSquare-Anova)
-    - T Test
-    - ChiSquare Test
-    - ANOVA Test
+    - Z Test                    -   Used when the population mean and std deviation are known
+    - One Sample Prop Test      -   For One Category Variable
+    - ChiSquare Test            -   For Two Category Features (Two sample Prop Test)
+    - T Test                    -   One Continuous Feature is taken. (Also used when Std.Deviation is unknown)
+    - Correlation               -   Two Continuous Features are taken (Also we can use Two Sample T Test)
+    - ANOVA Test                -   One Numerical Var + One Categorical Var / Categorical Var with more than 3 features)
+
+    As per Prof.UDK, THe Objective of various tests are as follows:
+        - Hypothesis Test   - To Reject or Retain existing claim or belief.
+        - Z Test            - To test the value of population mean when the population variance is known
+        - T Test(one sample)- To test when the Std Deviation is unknown and estimated from sample
+        - T Test(two sample)- To test difference btw toe population means where Std Deviations are unknown
+        - Paired sample T Test - To test whether an Intervention may have significantly changed the population parameters
+        - Chi Squared Test  - Non Parameteric test for caomparing Observed Dist Data vs Expected Dist Data
+        - ANOVAV            - 
 
 5. Types of Transformation    --
 
