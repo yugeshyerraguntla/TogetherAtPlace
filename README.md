@@ -45,11 +45,11 @@ Data ---> Feature Engineering ---> Handle Categorical Features ---> Feature Sele
      - ANOVAV            - To Compare Mean values simultaneously for more than 2 groups
            
 
-5. Types of Transformation    --
+5. Types of Transformation    --  [Types of Transformation](https://github.com/yugeshyerraguntla/TypesOfTransformation)
 
-6. Types of Cross Validation  --
+6. Types of Cross Validation  --  [Types Of Cross Validation](https://github.com/yugeshyerraguntla/CrossValidationTypes)
 
-7. Hyperprameter Optimization --
+7. Hyperprameter Optimization --  [HyperParameter Optimization](https://github.com/yugeshyerraguntla/HyperParameterOptimization)
 
 
 
